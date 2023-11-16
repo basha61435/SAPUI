@@ -17,4 +17,4 @@ server:
 build-parameters:
    builder: custom
    commands:
-      - npm install --production
+      - npm install
